@@ -1,4 +1,4 @@
-To find the solution run 
+Pour trouver la solution il suffit de lancer:
 
 ```bash
 $ python
@@ -8,3 +8,4 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> ((6*954437177)*853726955 - (1*954437177)*1871938753) % 2**31
 838376697
 ```
+Les explications seront dans le MISC
