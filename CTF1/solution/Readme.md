@@ -1,4 +1,4 @@
-Tofind the solution run 
+To find the solution run 
 
 ```bash
 $ python
